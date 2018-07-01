@@ -28,3 +28,4 @@
   <li>{$animal[i]}
 {/section}
 </ul>
+{include file='footer.tpl'}
